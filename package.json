@@ -1,5 +1,5 @@
 {
-	"name": "Classic ASP",
+	"name": "classic-asp",
 	"description": "Classic ASP Language Support",
 	"version": "0.0.1",
 	"publisher": "ilich8086",
@@ -7,7 +7,7 @@
 	"bugs": {
 		"url": "https://github.com/ilich/vscode-classic-asp/issues"
 	},
-	"homepage": "https://github.com/ilich/cssfmt-vscode/blob/master/README.md",
+	"homepage": "https://github.com/ilich/vscode-classic-asp/blob/master/README.md",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/ilich/vscode-classic-asp"
