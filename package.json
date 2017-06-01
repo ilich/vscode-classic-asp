@@ -2,7 +2,8 @@
 	"name": "classic-asp",
 	"displayName": "Classic ASP",
 	"description": "Classic ASP Language Support",
-	"version": "0.0.2",
+	"version": "0.0.3",
+	"icon": "icon.png",
 	"publisher": "ilich8086",
 	"license": "MIT",
 	"bugs": {
